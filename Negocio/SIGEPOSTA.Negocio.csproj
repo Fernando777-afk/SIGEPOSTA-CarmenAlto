@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" />
+  <PropertyGroup>
+    <Configuration Condition="'$(Configuration)' == ''">Debug</Configuration>
+    <Platform Condition="'$(Platform)' == ''">AnyCPU</Platform>
+    <ProjectGuid>{C58F8864-CF53-4434-B692-0788F406F103}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>SIGEPOSTA.Negocio</RootNamespace>
+    <AssemblyName>SIGEPOSTA.Negocio</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <LangVersion>7.3</LangVersion>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+    <DebugType>portable</DebugType>
+    <Optimize Condition="'$(Configuration)' == 'Release'">true</Optimize>
+    <DefineConstants Condition="'$(Configuration)' == 'Debug'">DEBUG;TRACE</DefineConstants>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="**\*.cs" Exclude="bin\**;obj\**" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml" />
+    <ProjectReference Include="..\Entidades\SIGEPOSTA.Entidades.csproj">
+      <Project>{C58F8864-CF53-4434-B692-0788F406F101}</Project>
+      <Name>SIGEPOSTA.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos\SIGEPOSTA.Datos.csproj">
+      <Project>{C58F8864-CF53-4434-B692-0788F406F102}</Project>
+      <Name>SIGEPOSTA.Datos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

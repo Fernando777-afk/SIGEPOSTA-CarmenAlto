@@ -1,0 +1,9 @@
+C:\Proyectos\SIGEPOSTA_NUEVO\Datos\bin\Debug\SIGEPOSTA.Datos.dll
+C:\Proyectos\SIGEPOSTA_NUEVO\Datos\bin\Debug\SIGEPOSTA.Datos.pdb
+C:\Proyectos\SIGEPOSTA_NUEVO\Datos\bin\Debug\SIGEPOSTA.Entidades.dll
+C:\Proyectos\SIGEPOSTA_NUEVO\Datos\bin\Debug\SIGEPOSTA.Entidades.pdb
+C:\Proyectos\SIGEPOSTA_NUEVO\Datos\obj\Debug\SIGEPOSTA.Datos.csproj.AssemblyReference.cache
+C:\Proyectos\SIGEPOSTA_NUEVO\Datos\obj\Debug\SIGEPOSTA.Datos.csproj.CoreCompileInputs.cache
+C:\Proyectos\SIGEPOSTA_NUEVO\Datos\obj\Debug\SIGEPOST.4D679C27.Up2Date
+C:\Proyectos\SIGEPOSTA_NUEVO\Datos\obj\Debug\SIGEPOSTA.Datos.dll
+C:\Proyectos\SIGEPOSTA_NUEVO\Datos\obj\Debug\SIGEPOSTA.Datos.pdb

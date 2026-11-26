@@ -1,0 +1,6 @@
+C:\Proyectos\SIGEPOSTA_NUEVO\Entidades\bin\Debug\SIGEPOSTA.Entidades.dll
+C:\Proyectos\SIGEPOSTA_NUEVO\Entidades\bin\Debug\SIGEPOSTA.Entidades.pdb
+C:\Proyectos\SIGEPOSTA_NUEVO\Entidades\obj\Debug\SIGEPOSTA.Entidades.csproj.AssemblyReference.cache
+C:\Proyectos\SIGEPOSTA_NUEVO\Entidades\obj\Debug\SIGEPOSTA.Entidades.csproj.CoreCompileInputs.cache
+C:\Proyectos\SIGEPOSTA_NUEVO\Entidades\obj\Debug\SIGEPOSTA.Entidades.dll
+C:\Proyectos\SIGEPOSTA_NUEVO\Entidades\obj\Debug\SIGEPOSTA.Entidades.pdb
